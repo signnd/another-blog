@@ -6,19 +6,12 @@
   "POSTS_PER_PAGE": 10,
   "MANUAL_DARK_MODE": true,
   "SEARCH_ENABLED": true,
-  "BASE_COLOR": "stone",
-  "ACCENT_COLOR": "amber",
+  "BASE_COLOR": "slate",
+  "ACCENT_COLOR": "sky",
   "SOCIAL_LINKS": {
-    "FACEBOOK_URL": "",
-    "TWITTER_URL": "",
-    "GITHUB_URL": "https://github.com/signnd",
     "INSTAGRAM_URL": "https://www.instagram.com/ngurahmj/",
     "LINKEDIN_URL": "https://linkedin.com/in/ngurahmj/",
-    "YOUTUBE_URL": "",
-    "SUBSTACK_URL": "",
+    "GITHUB_URL": "https://github.com/signnd",
     "EMAIL": "nfffqdb@gmail.com"
-  },
-  "MANUAL_SITE_BASE": false,
-  "SITE": "https://threads.net/@ngurahmj",
-  "BASE": ""
+  }
 }
