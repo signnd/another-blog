@@ -1,21 +1,9 @@
-# Hello world! 🌎
+---
+---
+# Halo semua
 
-Here you can write something about yourself, who are you, why are you writing this blog, what are you going to write about, etc.
+Blog ini dibuat untuk membuat saya familiar dengan Astro dan GitHub Pages CMS (baru tau kalo di sini ada CMS juga, banyak banget ada layanan kek gini, aku mah belom pernah coba semuanya). Yah ini paling cuma mengisi kegabutan di kantor sih.
 
-You can also add some images or links like this:
+Saya pernah blogging beberapa tahun yang lalu, dan sepertinya bakalan mulai lagi. Ada beberapa ide tulisan yang biasanya tiba-tiba muncul di pikiran saya. Tulisan tentang apa yang saya sedang rasakan. Atau tulisan tentang hal-hal yang sedang saya ikuti. Atau mungkin cuma arsip hal-hal yang ingin saya (atau bahkan orang lain) pengen cari di masa depan. Tapi karena keterbatasan waktu, jadinya gak jadi-jadi :)) kadang saya sibuk sampe kelelahan dan gak punya waktu, kadang juga saya memilih untuk menghabiskan waktu saya melakukan hal lain yang (menurut sebagian orang) produktif atau tidak produktif.
 
-### Image
-
-```markdown
-![earth](../../assets/earth.jpg)
-```
-
-![earth](../../assets/earth.jpg)
-
-### Link
-
-```markdown
-here is a [post about how to use this template](posts/how-to-use)
-```
-
-here is a [post about how to use this template](posts/how-to-use)
+Tapi saya masih bingung sih selanjutnya blog ini mau saya apakan. Yah mungkin liat aja selanjutnya kayak gimana ya.
