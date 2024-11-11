@@ -13,5 +13,8 @@
     "LINKEDIN_URL": "https://linkedin.com/in/ngurahmj/",
     "GITHUB_URL": "https://github.com/signnd",
     "EMAIL": "nfffqdb@gmail.com"
-  }
+  },
+  "MANUAL_SITE_BASE": false,
+  "SITE": "https://threads.net/@ngurahmj",
+  "BASE": ""
 }
