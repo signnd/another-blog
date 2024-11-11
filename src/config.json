@@ -1,7 +1,7 @@
 {
   "SITE_TITLE": "another signnd blog",
   "SITE_DESCRIPTION": "Blog yang dibikin buat nyoba Astro",
-  "SITE_FAVICON": "🙃",
+  "SITE_FAVICON": "💻",
   "NAME": "Ngurah M",
   "POSTS_PER_PAGE": 10,
   "MANUAL_DARK_MODE": true,
