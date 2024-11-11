@@ -9,9 +9,13 @@
   "BASE_COLOR": "stone",
   "ACCENT_COLOR": "sky",
   "SOCIAL_LINKS": {
+    "FACEBOOK_URL": "",
+    "TWITTER_URL": "",
     "INSTAGRAM_URL": "https://www.instagram.com/ngurahmj/",
     "LINKEDIN_URL": "https://linkedin.com/in/ngurahmj/",
     "GITHUB_URL": "https://github.com/signnd",
+    "YOUTUBE_URL": "",
+    "SUBSTACK_URL": "",
     "EMAIL": "nfffqdb@gmail.com"
   },
   "MANUAL_SITE_BASE": false,
